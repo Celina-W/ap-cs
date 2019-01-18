@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class ArrayStuff {
 
@@ -6,6 +7,10 @@ public class ArrayStuff {
 		
 		double[] numbers = new double[1000];
 		int counter = 0;
+		
+		double[] num = { 0.1, 2.0, 7.7, 3.4546, 5, 7.0 };
+		
+		System.out.println(Arrays.toString(num));
 		
 		Scanner in = new Scanner(System.in);
 		System.out.println("Enter numbers, q to quit: ");

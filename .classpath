@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="APCS Lab 1 - Face/src"/>
+	<classpathentry kind="src" path="APCS Lab 2 - Random/src"/>
+	<classpathentry kind="src" path="APCS Lab 3 - House/src"/>
+	<classpathentry kind="src" path="APCS Lab 4 - Door/src"/>
+	<classpathentry kind="src" path="APCS Lab 4.1 - Fundamental Data Types/src"/>
+	<classpathentry kind="src" path="APCS Lab 5 - Pyramid/src"/>
+	<classpathentry kind="src" path="APCS Lab 6 - Loops/src"/>
+	<classpathentry kind="src" path="APCS Lab 6 - Magpie/src"/>
+	<classpathentry kind="src" path="APCS Lab 7 - Arrays/src"/>
+	<classpathentry kind="src" path="APCS Lab 8 - Arrays 2/src"/>
+	<classpathentry kind="src" path="APCS Project - Debaser/src"/>
+	<classpathentry kind="src" path="Graphics Worksheet HW/src"/>
+	<classpathentry kind="src" path="Stuff/src"/>
+	<classpathentry kind="src" path="Textbook E1-5 HW/src"/>
+	<classpathentry kind="src" path="Textbook E2-1 HW/src"/>
+	<classpathentry kind="src" path="Textbook E2-13 HW/src"/>
+	<classpathentry kind="src" path="Textbook E2-2 HW/src"/>
+	<classpathentry kind="src" path="Textbook E2-6 HW/src"/>
+	<classpathentry kind="src" path="Textbook E3-1 HW/src"/>
+	<classpathentry kind="src" path="Textbook E4-23 HW/src"/>
+	<classpathentry kind="src" path="Textbook E5-(10-12) HW/src"/>
+	<classpathentry kind="src" path="Textbook E5-17 HW/src"/>
+	<classpathentry kind="src" path="Textbook E5-23 HW/src"/>
+	<classpathentry kind="src" path="Textbook E5-9 HW/src"/>
+	<classpathentry kind="src" path="Textbook E6-5 HW/src"/>
+	<classpathentry kind="output" path="APCS Lab 1 - Face/bin"/>
+</classpath>
