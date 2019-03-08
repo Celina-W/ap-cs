@@ -20,6 +20,8 @@ public class StringStuff {
 		
 		System.out.printf("%10.0f", 1.2);
 		
+		System.out.println("Are there any spaces and periods at the end?.     ".trim());
+		
 	}
 
 }

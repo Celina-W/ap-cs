@@ -40,6 +40,23 @@ public class ArrayStuff {
 			}
 		}
 		
+		int[] testArray = { 1, 10, 10, 2 };
+		int count = 0;
+		
+		for (int i = 0; i < testArray.length; i++) {
+			if (testArray[i] == 10) {
+				count++;
+				for (int j = i + 1; j < testArray.length; j++) {
+					testArray[j-1] = testArray[j];
+					System.out.println(Arrays.toString(testArray));
+				}
+				testArray[testArray.length-count] = 0;
+				
+			}
+		}
+		
+		System.out.println(Arrays.toString(testArray));
+		
 	}
 
 }
